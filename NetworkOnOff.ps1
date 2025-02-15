@@ -19,4 +19,6 @@ if ($carteReseau -eq $null) {
         Write-Host "La carte réseau '$nomCarteReseau' a été activée."
     }
 }
+
+#ceci est un test
  
